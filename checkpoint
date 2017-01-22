@@ -1,0 +1,6 @@
+model_checkpoint_path: "tsc-20-128"
+all_model_checkpoint_paths: "tsc-15-64"
+all_model_checkpoint_paths: "tsc-15-128"
+all_model_checkpoint_paths: "tsc-20-32"
+all_model_checkpoint_paths: "tsc-20-64"
+all_model_checkpoint_paths: "tsc-20-128"
